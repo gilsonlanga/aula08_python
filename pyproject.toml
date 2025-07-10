@@ -1,13 +1,15 @@
 [project]
 name = "aula08-python"
 version = "0.1.0"
-description = ""
+description = "\"aula pyton\""
 authors = [
-    {name = "Gilson Langa",email = "giu.langa@gmail.com"}
+    {name = "Your Name",email = "you@example.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
+    "pandera (>=0.25.0,<0.26.0)",
+    "pandas (>=2.3.1,<3.0.0)"
 ]
 
 
